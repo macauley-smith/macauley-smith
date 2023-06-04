@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**macauley-smith/macauley-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Macauley, a developer from the UK.
 
-Here are some ideas to get you started:
+I'm looking to expand my knowledge, connect with others, and collaborate on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Full Stack Software and Web Development
+- HTML/CSS
+- React JS
+- Design, building websites
+- FreeCodeCamp!
+- Being creative
+- Gaming
+- Data Engineering
+- AI, Machine Learning
+- Python!
+
+## Goals
+
+My goal is to build a career in programming.
+
+
+
+
